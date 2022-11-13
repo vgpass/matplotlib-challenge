@@ -32,7 +32,7 @@ In the *Pymaceuticals* folder are the following files:
 
 **mouse_pie.png** - Not a strange delicacy, but a saved image file of my pie chart showing distrubution of mice in the study by sex.
 
-**scatter_reg** - Saved image of the scatter chart with regression line plotted.
+**scatter_reg.png** - Saved image of the scatter chart with regression line plotted.
 
 The *Data* folder contains the two data files provided for the challenge.
 
