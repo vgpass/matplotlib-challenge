@@ -30,7 +30,7 @@ In the *Pymaceuticals* folder are the following files:
 
 **mouse_bar.png** - This is a saved image of the bar plot showing timepoints for each drug regimen.
 
-**mouse_pie.png** - Not a strange delicacy, but a saved image file of my pie chart showing distrubution of mice in the study by sex.
+**mouse_pie.png** - Not a strange delicacy, but a saved image file of my pie chart showing distribution of mice in the study by sex.
 
 **scatter_reg.png** - Saved image of the scatter chart with regression line plotted.
 
